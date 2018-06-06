@@ -16,8 +16,9 @@ Include the library and call Parser's ::parse() function.
 Example:  
   
 ```php  
- require_once('ogp/Parser.php');  
- $content = file_get_contents("https://www.youtube.com/watch?v=EIGGsZZWzZA");    print_r(\ogp\Parser::parse($content));  
+ require_once('vendor/autoload.php');  
+ $content = file_get_contents("https://www.youtube.com/watch?v=EIGGsZZWzZA");    
+ print_r(\ogp\Parser::parse($content));  
 ```  
   
 Author  
