@@ -1,5 +1,5 @@
 {
-    "name": "thelegendarymarc/php-ogp",
+    "name": "thelegendarymarc/php-ogparser",
     "description": "Open Graph parser",
     "license": "GPL-2.0",
     "keywords": ["opengraph"],
