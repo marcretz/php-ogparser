@@ -1,0 +1,17 @@
+{
+    "name": "TheLegendaryMarc/php-ogp",
+    "description": "Open Graph parser",
+    "license": "GPL-2.0",
+    "keywords": ["opengraph"],
+    "authors": [
+	{
+	    "name": "TheLegendaryMarc",
+	    "email": "marc@retz.io",
+	    "homepage": "https://retz.io",
+	    "role": "Developer"
+	}
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
