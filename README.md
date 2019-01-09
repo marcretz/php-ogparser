@@ -1,4 +1,4 @@
-
+![](https://img.shields.io/packagist/dt/thelegendarymarc/php-ogparser.svg) 
 Open Graph Parser  
 ======================  
   
